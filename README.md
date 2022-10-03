@@ -1,16 +1,52 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=eeeeee&height=10&section=header"/>
 
-<!--
-**lucasar2303/lucasar2303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h1 align="center">Opa, tudo certo? eu sou o <i>Lucas Anastácio<i> 😆</h1>
+  <p align="center">Tenho 21 anos, atualmente matriculado no curso de Análise e Desenvolvimento de Sistemas, pela instituição FATEC de Taubaté.
+    
+  <p align="center">Foco em estudos e desenvolvimento web e mobile! 📱</h2>
+</div>
 
-Here are some ideas to get you started:
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=eeeeee&height=10&section=header"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasar2303&show_icons=true&count_private=true&hide_border=true&title_color=F4003B&icon_color=F4003B&text_color=ccc&bg_color=121212" alt="Lucas Anastácio Ribeiro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasar2303&layout=compact&hide_border=true&title_color=F4003B&text_color=ccc&bg_color=121212" />
+</div>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=lucasar2303&theme=xcode&hide_border=true&area=true&bg_color=121212&line=F4003B&point=fff&title_color=F4003B)
+
+<div align="center">
+  <a href="https://api.whatsapp.com/send?phone=5512992029139">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
+  <a href="https://www.linkedin.com/in/lucas-anastacio/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
+  
+
+### Principais tecnologias:
+![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=orange&labelColor=121212)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=121212)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=121212)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=android&labelColor=121212)&nbsp; 
+
+### Ferramentas:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=121212)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=121212)&nbsp;
+![AndroidStudio](https://img.shields.io/badge/-android_studio-0D1117?style=for-the-badge&logo=androidstudio&labelColor=121212)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=121212)&nbsp;
+
+### Outras tecnologias:
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=121212)&nbsp;
+![Firebase](https://img.shields.io/badge/-firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=121212)&nbsp;
+![Php](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=php&labelColor=121212)&nbsp; 
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=121212)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=121212)&nbsp;
+  
+### Estudando no momento:
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=android&labelColor=121212)&nbsp; 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=eeeeee&height=10&section=header"/>

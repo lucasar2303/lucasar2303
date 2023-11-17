@@ -2,9 +2,9 @@
 
 <div>
   <h1 align="center">Opa, tudo certo? eu sou o <i>Lucas Anastácio<i> 😆</h1>
-  <p align="center">Tenho 21 anos, atualmente matriculado no curso de Análise e Desenvolvimento de Sistemas, pela instituição FATEC de Taubaté.
+  <p align="center">Tenho 22 anos, formado no curso de Análise e Desenvolvimento de Sistemas, pela instituição FATEC de Taubaté.
     
-  <p align="center">Foco em estudos e desenvolvimento web e mobile! 📱</h2>
+  <p align="center">Foco em estudos e desenvolvimento Front End! 📱</h2>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=121212&height=10&section=header"/>
@@ -14,8 +14,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasar2303&show_icons=true&count_private=true&hide_border=true&title_color=F4003B&icon_color=F4003B&text_color=ccc&bg_color=121212" alt="Lucas Anastácio Ribeiro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasar2303&layout=compact&hide_border=true&title_color=F4003B&text_color=ccc&bg_color=121212" />
 </div>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=lucasar2303&theme=xcode&hide_border=true&area=true&bg_color=121212&line=F4003B&point=fff&title_color=F4003B)
 
 <div align="center">
   <a href="https://api.whatsapp.com/send?phone=5512992029139">
